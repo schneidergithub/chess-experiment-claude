@@ -1,0 +1,3 @@
+"""Chess puzzle video pipeline package."""
+
+__version__ = "0.1.0"
